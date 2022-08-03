@@ -1,6 +1,6 @@
 https://userchat-t5.netlify.app/
 
-###How it works
+### How it works
 At the start user have to enter its name (just name without password or anything).
 After entering its name user get to the “send a message” form: recipient, title and the message body.
 Recipient field should support autocompletion — when the user starts entering name, dropdown is shown with the corresponding names (you have to use ready component for this).
